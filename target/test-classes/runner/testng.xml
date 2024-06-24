@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="author" value="shakespeare"/>
+    <parameter name="searchKey" value="hamlet"/>
+    <test verbose="2" preserve-order="true" name="C:/Users/ramkr/IdeaProjects/TestNGParameterization">
+        <classes>
+            <class name="ParameterWithTestNGXML">
+
+
+        </class>
+        </classes>
+
+    </test>
+</suite>
