@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="9619" started-at="2023-06-14T13:59:00 IST" finished-at="2023-06-14T13:59:10 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/ramkr/IdeaProjects/TestNGParameterization" duration-ms="9619" started-at="2023-06-14T13:59:00 IST" finished-at="2023-06-14T13:59:10 IST">
+      <class name="ParameterWithTestNGXML">
+        <test-method status="PASS" signature="testParameterWithXML(java.lang.String, java.lang.String)[pri:0, instance:ParameterWithTestNGXML@31dc339b]" name="testParameterWithXML" duration-ms="9532" started-at="2023-06-14T13:59:00 IST" finished-at="2023-06-14T13:59:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shakespeare]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hamlet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameterWithXML -->
+      </class> <!-- ParameterWithTestNGXML -->
+    </test> <!-- C:/Users/ramkr/IdeaProjects/TestNGParameterization -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
